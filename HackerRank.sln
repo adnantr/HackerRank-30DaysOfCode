@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRankDay5", "HackerRan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRankDay6", "HackerRankDay6\HackerRankDay6.csproj", "{588967E5-2246-48DC-8AD3-B91B166A833A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankDay7", "HackerRankDay7\HackerRankDay7.csproj", "{2EE394D8-82FB-453D-8F90-E9F891B50302}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRankDay7", "HackerRankDay7\HackerRankDay7.csproj", "{2EE394D8-82FB-453D-8F90-E9F891B50302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankDay8", "HackerRankDay8\HackerRankDay8.csproj", "{7DA8449E-1F20-4D00-88E9-D47B15AD0916}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{2EE394D8-82FB-453D-8F90-E9F891B50302}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EE394D8-82FB-453D-8F90-E9F891B50302}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EE394D8-82FB-453D-8F90-E9F891B50302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA8449E-1F20-4D00-88E9-D47B15AD0916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA8449E-1F20-4D00-88E9-D47B15AD0916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA8449E-1F20-4D00-88E9-D47B15AD0916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA8449E-1F20-4D00-88E9-D47B15AD0916}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
